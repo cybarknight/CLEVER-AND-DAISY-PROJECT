@@ -1,0 +1,158 @@
+*{
+  margin :0;
+  box-sizing: border-box;
+}
+body{
+  height: 100vh;
+  width: 100%;
+  margin-left: 40px;
+}
+h1{
+  color: blue ;
+}
+
+.glogo{
+display: flex;
+  }
+
+
+h2{
+  color: #66cc00;
+}
+.navbar{
+  background-image:  linear-gradient(180deg, #646cb3, #000a63);
+  
+  height: 50px;
+}
+.navbar a{
+  font-size: 17px;
+  color :snow;
+  text-decoration: none ;
+  margin-right: 20px;
+  font-weight: 600;
+ margin-left: 5px;
+}
+.buy{
+  background: white;
+  
+  display: flex;
+  }
+#buy{
+  margin-left: 150px;
+}
+pre{
+  font-size:20px;
+  color: #151482;
+}
+
+.here a{
+  color :#33cc00;
+}
+#here{
+  color: red;
+  }
+.here {
+  padding-left: 100px;
+  padding-top: 30px;
+  padding-bottom:30px;
+}
+
+.ghana{
+  background:#000000;
+  color: white;
+}
+.here{
+  background: #ffff33;
+}
+.result{
+  background: #666666;
+  color: white;
+}
+.info{
+  background: #cc9933;
+  color: white;
+  
+}
+form{
+  display: block;
+  margin: auto;
+}
+input{
+  display:inline-block;
+  height :30px;
+  width: 180px;
+  margin-left: 50px;
+  
+}
+.second {
+  display: flex;
+  margin-top: 0px;
+  width: 100%;
+  background: #ffffcc;
+}
+.first{
+  width: 80%;
+  margin-left: 5px;
+  background: rgba(153,153, 000, 0.8);
+}
+.divs{
+  display: flex;
+  width: auto;
+}
+.checker{
+  width: 620%;
+  margin-left: 3px;
+}
+.ad{
+  margin-right: 8px;
+}
+.second span{
+  background: red;
+}
+span{
+  background: #337700;
+}
+
+button{
+  background: #00540f;
+  color: #8ebf97;
+  
+  
+}
+.button{
+  margin-left: 100px;
+}
+
+
+
+.svg{
+  background: #0e4078;
+}
+
+p a{
+  color:#005e24;
+}
+
+footer{
+  background:#ed0556;
+  
+  }
+
+.logo3{
+  display: flex;
+  
+}
+.logo3 p{
+  padding-top: 10px;
+  
+}
+
+.logo3a{
+  display: flex;
+  padding-left: 500px;
+
+}
+
+
+
+
